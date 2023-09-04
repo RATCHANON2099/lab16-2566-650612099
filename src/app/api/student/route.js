@@ -1,5 +1,6 @@
 import { DB } from "@/app/libs/DB";
 import {
+  zStudentDeleteBody,
   zStudentGetParam,
   zStudentPostBody,
   zStudentPutBody,
